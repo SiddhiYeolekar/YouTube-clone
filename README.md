@@ -39,7 +39,7 @@ A full-stack YouTube clone application built using **MongoDB, Express, React, an
 ---
 
 ##  Project Structure
-
+```
 /backend
     /controller
     /model
@@ -58,7 +58,7 @@ A full-stack YouTube clone application built using **MongoDB, Express, React, an
         /css
         App.jsx
         main.jsx
-
+```
 
 
 ---
