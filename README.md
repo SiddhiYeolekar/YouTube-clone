@@ -69,7 +69,7 @@ A full-stack YouTube clone application built using **MongoDB, Express, React, an
 ```bash
 cd backend
 npm install
-```bash
+```
 
 Create an .env file 
 ```bash
@@ -77,20 +77,24 @@ MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-secret-key
 JWT_EXPIRES_IN=1d
 PORT=5100
+```
 
 ### 2 Frontend Setup
 ```bash
 cd frontend
 npm install
+```
 
 ### Run Frontend
 ```bash
 npm run dev
+```
 
 ## Seeding dummy vidoes
 ```bash
 cd backend
 node seed.js
+```
 
 ##  Usage
 - **Register / Login**
