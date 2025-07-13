@@ -69,6 +69,7 @@ A full-stack YouTube clone application built using **MongoDB, Express, React, an
 ```bash
 cd backend
 npm install
+```bash
 
 Create an .env file 
 ```bash
